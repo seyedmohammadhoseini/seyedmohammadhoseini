@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <img src='https://s2.uupload.ir/files/download_jey.jpg' alt="banner"></img> -->
-<h1 style="color:#fff">سید محمد حسین حسینی</h1>
