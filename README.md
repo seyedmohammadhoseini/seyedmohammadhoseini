@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <img src='https://s2.uupload.ir/files/download_jey.jpg' alt="banner"></img> -->
 
 
-  <P  style="color:red;" >Interested in adventuring in the world of design and web</p>
-   <p style="color:#00d795;">mohammad</p>
+  <P>Interested in adventuring in the world of design and web</p>
+
 <hr/>
 
  My Professional skills
