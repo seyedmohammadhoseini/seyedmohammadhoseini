@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 
 Interested in adventuring in the world of design and web
+<hr/>
+ My Professional skills
 
