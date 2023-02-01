@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 <br>
 <img src='https://s2.uupload.ir/files/download_jey.jpg' alt="banner"></img> -->
  
-
-  <P >Interested in adventuring in the world of design and web</p>
-
-<hr/>
+   <a href="https://uupload.ir/view/frame_1_pbpu.png" target="_blank"><img src="https://s2.uupload.ir/files/frame_1_pbpu_thumb.png" border="0" alt="آپلود عکس" /></a>
 
 <!--  My Professional skills -->
 
