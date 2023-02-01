@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 <img src='https://s2.uupload.ir/files/download_jey.jpg' alt="banner"></img> -->
  
- https://s2.uupload.ir/files/frame_1_pbpu.png
+  <img src="https://s2.uupload.ir/files/frame_1_pbpu.png'/>
 
 <!--  My Professional skills -->
 
